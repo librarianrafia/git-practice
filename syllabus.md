@@ -12,4 +12,4 @@
 
 - reading 3 refer to [*Star Trek Memory Prime Alpha*](http://memory-alpha.wikia.com/wiki/Memory_Prime)
 
-adding more text to text 8/20/2018
+adding more text to text 2/7/19
